@@ -1,6 +1,7 @@
 <template>
   <div>
     <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
     <script>
       window.fbAsyncInit = function () {
         FB.init({
@@ -23,7 +24,7 @@
     <div
       class="fb-customerchat"
       attribution="setup_tool"
-      page_id="110522487140550"
+      page_id="102576758124389"
     ></div>
   </div>
 </template>

@@ -5,7 +5,7 @@
       <div class="row row1">
         <div class="col-lg-9 col-md-9 col-sm-9">
           <h2 class="mau-trang">
-            Công ty bảo vệ tại Vĩnh Phúc - Tuyển dụng bảo vệ
+            Công ty bảo vệ uy tín - Tuyển dụng bảo vệ ở Hà Nội
           </h2>
         </div>
         <!-- Social Icons Starts -->
@@ -17,7 +17,7 @@
             <li>
               <a
                 target="_blank"
-                href="https://www.facebook.com/baoveanninhphiabac"
+                href="https://www.facebook.com/vieclambaovediamondstar"
                 ><i class="fa fa-facebook"></i
               ></a>
             </li>
@@ -62,10 +62,7 @@
           <ul>
             <li class="clearfix">
               <div class="picture">
-                <img
-                  src="~/assets/images/blog/footer/1.jpg"
-                  alt="việc làm bảo vệ"
-                />
+                <img src="/images/blog/footer/1.jpg" alt="việc làm bảo vệ" />
               </div>
               <div class="info">
                 <div class="caption">
@@ -84,15 +81,14 @@
           <h4 class="tieu-de">Việc làm bảo vệ ở Vĩnh Phúc</h4>
           <div class="description">
             <strong
-              >Thông tin Công Ty TNHH Dịch Vụ Bảo Vệ An Ninh Phía Bắc ở Thị xã
-              Phúc Yên, Vĩnh Phúc: mã số thuế: 2500506581, Địa chỉ: Số 56, Đường
-              Lạc Long Quân, P. Hùng Vương, TP. Phúc Yên,Vĩnh Phúc:</strong
+              >Thông tin Công Ty Tnhh Liên Doanh Dịch Vụ Bảo Vệ Diamondstar: mã
+              số thuế: 0107430277, có địa chỉ trụ sở Xóm Đông Bảo Tháp, Xã Kim
+              Hoa, Huyện Mê Linh, Hà Nội:</strong
             ><br />
             <strong>Cần tuyển dụng</strong>
             <em>nhân viên bảo vệ và an ninh</em> tòa nhà, siêu thị, nhà máy làm
-            việc tại KCN Khai Quang, Vĩnh Yên, KCN Bình Xuyên, KCN Thăng Long,
-            Vĩnh Phúc hoặc KCN Bá Thiện, Vĩnh Phúc. Khu vực Phúc Yên, Xuân Hòa.
-            KCN Quang Minh, Mê Linh, Hà Nội
+            việc tại KCN Bắc Thăng Long, KCN Quang Minh, KCN Nội Bài, Khu vực
+            Đông Anh, Hà Nội
             <p>
               <a
                 href="//www.dmca.com/Protection/Status.aspx?ID=bbf30974-e49d-4f2c-9a49-5d833800ae9a"
@@ -144,7 +140,7 @@
     <div
       class="fb-customerchat"
       attribution="page_inbox"
-      page_id="110763834427796"
+      page_id="102576758124389"
     ></div>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
@@ -158,7 +154,7 @@
       }
       gtag('js', new Date())
 
-      gtag('config', 'G-2G9ZM8JQ20')
+      gtag('config', 'G-VX3LKDES3Y')
     </script>
   </div>
 </template>
@@ -172,28 +168,21 @@ export default {
           slug: {
             _type: 'slug',
             current:
-              'tuyen-bao-ve-vinh-yen-can-gap-20-nhan-vien-bao-ve-ca-ngay-va-toi',
+              'tuyen-gap-05-nhan-vien-an-ninh-va-bao-ve-tai-hung-yen-di-lam-ngay',
           },
           title:
-            'Tuyển bảo vệ Vĩnh Yên Cần gấp 20 Nhân viên bảo vệ ca ngày và tối',
+            'Tuyển gấp 05 Nhân viên an ninh và bảo vệ tại Hưng Yên Đi làm ngay',
         },
       ],
       tuKhoas: [
-        'tìm việc làm bảo vệ',
-        'tuyển bảo vệ',
-        'việc làm bảo vệ tại vĩnh phúc',
-        'tìm việc làm bảo vệ ở vĩnh phúc',
-        'việc làm vĩnh phúc',
-        'tuyển nhân viên bảo vệ',
-        'việc làm bảo vệ',
-        'tuyển bảo vệ vĩnh phúc',
-        'tuyển bảo vệ vĩnh yên',
-        'việc làm tại vĩnh phúc',
-        'tìm việc làm ở vĩnh phúc',
-        'tuyển dụng việc làm vĩnh phúc',
-        'tuyển bảo vệ tại vĩnh phúc',
-        'tìm việc bảo vệ',
-        'tuyển dụng tại vĩnh phúc',
+        'công ty bảo vệ uy tín',
+        'công ty bảo vệ uy tín tại hà nội',
+        'dịch vụ bảo vệ uy tín',
+        'dịch vụ bảo vệ tại hà nội',
+        'báo giá dịch vụ bảo vệ tại hà nội',
+        'dịch vụ bảo vệ hà nội',
+        'dịch vụ bảo vệ chuyên nghiệp tại hà nội',
+        'công ty bảo vệ tại hưng yên',
       ],
     }
   },

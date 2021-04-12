@@ -20,7 +20,7 @@
       <div class="share-this">
         <i class="fa fa-share-alt"></i>
         <a
-          :href="`https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https%3A%2F%baoveanninhphiabac.ga%2F${post.slug.current}%2F&display=popup&ref=plugin&src=share_button`"
+          :href="`https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https%3A%2F%baovediamondstar.ga%2F${post.slug.current}%2F&display=popup&ref=plugin&src=share_button`"
           >Chia sẻ việc làm</a
         >
       </div>

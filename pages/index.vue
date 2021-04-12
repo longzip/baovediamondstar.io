@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="info">
-              <h1>Việc làm bảo vệ tại Vĩnh Phúc</h1>
+              <h1>Công ty Dịch vụ bảo vệ uy tín, chuyên nghiệp tại hà nội</h1>
             </div>
           </div>
         </div>
@@ -19,15 +19,15 @@
         <div class="row">
           <div class="col-lg-12">
             <h2>
-              Tuyển bảo vệ tại Vĩnh Phúc: cần gấp 60 nam/nữ làm nhân viên bảo vệ
+              Tuyển bảo vệ tại Hà Nội: cần gấp 60 nam/nữ làm nhân viên bảo vệ
             </h2>
             <p>
-              <strong>Tuyển bảo vệ vĩnh phúc</strong>, bạn đang trong độ tuổi
-              lao động từ 18 tới 60 <em>(tuyển bảo vệ 60 tuổi)</em>, mong muốn
-              <em>tìm việc làm bảo vệ tại vĩnh phúc</em> có công việc ổn định,
-              thu nhập tốt, được đóng bảo hiểm đầy đủ. Bạn muốn được đào tạo trở
+              <strong>Tuyển bảo vệ Hà Nội</strong>, bạn đang trong độ tuổi lao
+              động từ 18 tới 60 <em>(tuyển bảo vệ 60 tuổi)</em>, mong muốn
+              <em>tìm việc làm bảo vệ tại Hà Nội</em> có công việc ổn định, thu
+              nhập tốt, được đóng bảo hiểm đầy đủ. Bạn muốn được đào tạo trở
               thành bảo vệ chuyên nghiệp miễn phí, làm việc gần nhà
-              <em>ở Vĩnh Phúc</em> tại các địa điểm sau:
+              <em>ở Hà Nội</em> tại các địa điểm sau:
             </p>
             <ol>
               <li>Khu công nghiệp Bình Xuyên I, II</li>
@@ -39,8 +39,8 @@
             </ol>
 
             <p>
-              Công ty TNHH Dịch Vụ Bảo Vệ An Ninh Phía Bắc
-              <strong>ở vĩnh phúc tuyển dụng nhân viên bảo vệ</strong>:
+              Công Ty Tnhh Liên Doanh Dịch Vụ Bảo Vệ Diamondstar
+              <strong>ở Hà Nội tuyển dụng nhân viên bảo vệ</strong>:
             </p>
             <ul>
               <li>05 đội trưởng lương 8 tới 15tr/tháng</li>
@@ -66,18 +66,18 @@
     <div class="call-to-action-03 container">
       <div class="row">
         <div class="col-lg-6 col-md-6 herotext">
-          <h2>Tìm việc làm bảo vệ tại vĩnh phúc</h2>
+          <h2>Tìm việc làm bảo vệ tại Hà Nội</h2>
           <div class="description">
             <p>
               <NuxtLink to="/"
-                >Công ty TNHH Dịch vụ bảo vệ An Ninh Phía Bắc</NuxtLink
+                >Công ty TNHH Dịch vụ bảo vệ An Ninh Diamondstar</NuxtLink
               >
               được thành lập năm 2013.
             </p>
             <p>
               Chuyên cung cấp dịch vụ bảo vệ chuyên nghiệp, uy tín: tuyển bảo vệ
-              tại vĩnh yên, tuyển nhân viên bảo vệ tại vĩnh tường, tuyển bảo vệ
-              khu công nghiệp, việc làm phúc yên.
+              chuyên nghiệp, tuyển nhân viên bảo vệ tại hưng yên, tuyển bảo vệ
+              khu công nghiệp, việc làm hà nội.
             </p>
           </div>
           <div class="button">
@@ -89,7 +89,7 @@
           <img
             src="/images/cong-ty-bao-ve-an-ninh-phia-bac-tuyen-dung.jpg"
             class="img-responsive center-block"
-            alt="Công ty TNHH Dịch vụ bảo vệ An Ninh Phía Bắc"
+            alt="Công ty TNHH Dịch vụ bảo vệ Diamondstar"
           />
         </div>
       </div>
@@ -99,7 +99,7 @@
       <div class="row">
         <div class="col-lg-12 herotext">
           <div class="description">
-            Tìm ngay cho mình việc làm ở công ty bảo vệ tại vĩnh phúc.
+            Tìm ngay cho mình việc làm ở công ty bảo vệ tại Hà Nội.
           </div>
         </div>
       </div>
@@ -109,7 +109,7 @@
             <img
               src="/images/viec-lam-bao-ve-vinh-phuc.jpg"
               class="img-responsive"
-              alt="Tuyển dụng việc làm vĩnh phúc"
+              alt="Tuyển dụng việc làm Hà Nội"
             />
             <!-- Picture Overlay Starts -->
             <div class="picture-overlay">
@@ -127,10 +127,10 @@
             </div>
             <!-- Picture Overlay Ends -->
           </div>
-          <div class="name">Tuyển bảo vệ vĩnh yên</div>
+          <div class="name">Tuyển bảo vệ tại Hà Nội</div>
           <div class="designation">Công ty</div>
           <div class="description">
-            “Ban giám đốc công ty An Ninh Phía Bắc chúc mừng toàn thể các chị em
+            “Ban giám đốc công ty Bảo Vệ Diamondstar chúc mừng toàn thể các chị em
             đồng chí nữ đang công tác tại mục tiêu của công ty Ngày 20/10 vui
             vẻ!”
           </div>
@@ -140,7 +140,7 @@
             <img
               src="/images/viec-lam-bao-ve-o-phuc-yen.jpg"
               class="img-responsive"
-              alt="Tuyển dụng việc làm vĩnh phúc"
+              alt="Tuyển dụng việc làm Hà Nội"
             />
             <!-- Picture Overlay Starts -->
             <div class="picture-overlay">
@@ -158,7 +158,7 @@
             </div>
             <!-- Picture Overlay Ends -->
           </div>
-          <div class="name">Tuyển dụng việc làm vĩnh phúc</div>
+          <div class="name">Tuyển dụng việc làm Hà Nội</div>
           <div class="designation">Công ty bảo vệ</div>
           <div class="description">
             Quy trình quản lý giám sát công nhân, nhân viên tại nhà máy May.
@@ -170,7 +170,7 @@
             <img
               src="/images/dao-tao-nghiep-vu-bao-ve-pccc.jpg"
               class="img-responsive"
-              alt="Tìm việc làm ở vĩnh phúc"
+              alt="Tìm việc làm ở Hà Nội"
             />
             <!-- Picture Overlay Starts -->
             <div class="picture-overlay">
@@ -188,11 +188,11 @@
             </div>
             <!-- Picture Overlay Ends -->
           </div>
-          <div class="name">Tìm việc làm ở vĩnh phúc</div>
+          <div class="name">Tìm việc làm ở Hà Nội</div>
           <div class="designation">Đào tạo PCCC</div>
           <div class="description">
-            Công ty An Ninh Phía Bắc liên tục tuyển dụng và đào tạo bảo vệ, vệ
-            sĩ chuyên nghiệp tại Vĩnh Phúc.
+            Công ty Bảo Vệ Diamondstar liên tục tuyển dụng và đào tạo bảo vệ, vệ
+            sĩ chuyên nghiệp tại Hà Nội.
           </div>
         </div>
       </div>
@@ -205,10 +205,10 @@
             <h2>Nhận thông báo tuyển dụng việc làm nhân viên bảo vệ</h2>
             <div class="description">
               Bạn không có thời gian, không muốn bỏ lỡ bất kỳ thông báo tuyển
-              dụng bảo vệ nào gần Vĩnh Phúc. Chúng tôi sẽ giúp bạn cập nhật bản
-              tin tuyển dụng bảo vệ mới nhất. Vui lòng cho chúng tôi biết email
-              của bạn và số điện thoại liên hệ để công ty bảo vệ an ninh miền
-              bắc gửi tới bạn nhé!
+              dụng bảo vệ nào gần Hà Nội. Chúng tôi sẽ giúp bạn cập nhật bản tin
+              tuyển dụng bảo vệ mới nhất. Vui lòng cho chúng tôi biết email của
+              bạn và số điện thoại liên hệ để công ty bảo vệ uy tín tại hà nội
+              gửi tới bạn nhé!
             </div>
           </div>
         </div>
@@ -216,7 +216,7 @@
           <div class="col-lg-6 col-md-6 col-sm-6">
             <p class="nhan-thong-bao">
               Chúng tôi rất trân trọng khi bạn gia nhập vào đội nhóm
-              <strong>Bảo Vệ Vĩnh Phúc</strong>
+              <strong>Bảo Vệ Hà Nội</strong>
             </p>
 
             <form
@@ -299,11 +299,10 @@
             class="col-lg-5 col-md-5 col-sm-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1"
           >
             <div class="white-bg address-block">
-              <h3>Văn phòng công ty công ty bảo vệ an ninh miền bắc</h3>
+              <h3>Văn phòng công ty bảo vệ uy tín tại hà nội</h3>
               <address>
-                <strong>Công ty dịch vụ bảo vệ an ninh Phía Bắc</strong><br />
-                Số nhà 56 , Đường Lạc Long Quân, Phường Hùng Vương, TP Phúc Yên
-                - Vĩnh Phúc
+                <strong>Công ty dịch vụ bảo vệ Diamondstar</strong><br />
+                trụ sở Xóm Đông Bảo Tháp, Xã Kim Hoa, Huyện Mê Linh, Hà Nội
               </address>
               <address>
                 <div class="phone">
@@ -351,7 +350,7 @@
 <style scoped>
 .b-img-01 {
   background-attachment: fixed;
-  background-image: url(/images/tuyen-bao-ve-o-vinh-phuc.jpg);
+  background-image: url(/images/about-us/cong-ty-bao-ve-uy-tin-diamondstar.jpg);
   background-repeat: repeat-y;
   background-position: 50% 0;
   background-size: cover;

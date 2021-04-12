@@ -25,7 +25,7 @@
                     <ul>
                       <li>
                         <a
-                          :href="`https://baoveanninhphiabac.ga${$route.fullPath}/#ung_tuyen`"
+                          :href="`https://baovediamondstar.ga${$route.fullPath}/#ung_tuyen`"
                           class="btn btn-default"
                           >Ứng tuyển ngay</a
                         >
@@ -48,14 +48,16 @@
                         <div
                           class="fb-share-button"
                           :data-href="
-                            'https://baoveanninhphiabac.ga' + $route.fullPath + '/'
+                            'https://baovediamondstar.ga' +
+                            $route.fullPath +
+                            '/'
                           "
                           data-layout="button_count"
                           data-size="small"
                         >
                           <a
                             target="_blank"
-                            :href="`https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbaoveanninhphiabac.ga${encodeURI(
+                            :href="`https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbaovediamondstar.ga${encodeURI(
                               $route.fullPath + '/'
                             )}&amp;src=sdkpreparse`"
                             class="fb-xfbml-parse-ignore"
@@ -84,7 +86,7 @@
                   <div
                     class="fb-like"
                     :data-href="
-                      'https://baoveanninhphiabac.ga' + $route.fullPath + '/'
+                      'https://baovediamondstar.ga' + $route.fullPath + '/'
                     "
                     data-width=""
                     data-layout="button"
@@ -96,7 +98,7 @@
                   <div
                     class="fb-save"
                     :data-uri="
-                      'https://baoveanninhphiabac.ga' + $route.fullPath + '/'
+                      'https://baovediamondstar.ga' + $route.fullPath + '/'
                     "
                     data-size="large"
                   ></div>
@@ -173,7 +175,7 @@
           ></div>
           <div
             class="fb-comments"
-            :data-href="'https://baoveanninhphiabac.ga' + $route.fullPath + '/'"
+            :data-href="'https://baovediamondstar.ga' + $route.fullPath + '/'"
             data-width=""
             data-numposts="5"
           ></div>
@@ -231,8 +233,8 @@ export default {
             hiringOrganization: {
               '@type': 'Organization',
               name: 'Công Ty TNHH Dịch Vụ Bảo Vệ An Ninh Phía Bắc',
-              sameAs: 'https://baoveanninhphiabac.ga',
-              logo: 'https://baoveanninhphiabac.ga/images/logo.png',
+              sameAs: 'https://baovediamondstar.ga',
+              logo: 'https://baovediamondstar.ga/images/logo.png',
             },
             jobLocation: {
               '@type': 'Place',

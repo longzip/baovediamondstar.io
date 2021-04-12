@@ -240,11 +240,10 @@ export default {
               '@type': 'Place',
               address: {
                 '@type': 'PostalAddress',
-                streetAddress:
-                  '38, Tổ 13, Phường Trưng Trắc, Thị Xã Phúc Yên, Phường Trưng Trắc, Phúc Yên, Vĩnh Phúc',
-                addressLocality: 'Vĩnh Phúc',
-                addressRegion: 'Vĩnh Phúc',
-                postalCode: '15000',
+                streetAddress: 'Xóm Đông Bảo Tháp, Xã Kim Hoa, Huyện Mê Linh',
+                addressLocality: 'Hà Nội',
+                addressRegion: 'Hà Nội',
+                postalCode: '12909',
                 addressCountry: 'VN',
               },
             },
@@ -253,8 +252,8 @@ export default {
               currency: 'VND',
               value: {
                 '@type': 'QuantitativeValue',
-                minValue: 14000,
-                maxValue: 16000,
+                minValue: 16600,
+                maxValue: 20000,
                 unitText: 'HOUR',
               },
             },

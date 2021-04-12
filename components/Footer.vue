@@ -62,7 +62,7 @@
           <ul>
             <li class="clearfix">
               <div class="picture">
-                <img src="/images/blog/footer/1.jpg" alt="việc làm bảo vệ" />
+                <img src="/images/footer/1.jpg" alt="việc làm bảo vệ" />
               </div>
               <div class="info">
                 <div class="caption">
@@ -91,15 +91,15 @@
             Đông Anh, Hà Nội
             <p>
               <a
-                href="//www.dmca.com/Protection/Status.aspx?ID=bbf30974-e49d-4f2c-9a49-5d833800ae9a"
+                href="//www.dmca.com/Protection/Status.aspx?id=d9ea0bf4-6bcd-4da6-aaae-b518d885cb37"
                 title="DMCA.com Protection Status"
                 class="dmca-badge"
               >
                 <img
-                  src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=bbf30974-e49d-4f2c-9a49-5d833800ae9a"
+                  src="//images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=d9ea0bf4-6bcd-4da6-aaae-b518d885cb37"
                   alt="DMCA.com Protection Status"
               /></a>
-              <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
+              <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
             </p>
           </div>
           <div class="call-mobile">

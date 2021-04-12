@@ -232,7 +232,7 @@ export default {
             employmentType: 'CONTRACTOR',
             hiringOrganization: {
               '@type': 'Organization',
-              name: 'Công Ty TNHH Dịch Vụ Bảo Vệ An Ninh Phía Bắc',
+              name: 'Công ty TNHH Liên doanh DV Bảo vệ Diamondstar',
               sameAs: 'https://baovediamondstar.ga',
               logo: 'https://baovediamondstar.ga/images/logo.png',
             },

@@ -30,7 +30,8 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'Công Ty Tnhh Dịch Vụ Bảo Vệ An Ninh Phía Bắc, Lạc Long Quân, Hùng Vương, Phúc Yên, Vĩnh Phúc nhận hồ sơ xin làm bảo vệ, kcn khai quang tuyển dụng bảo vệ...',
+          content:
+            'Công Ty Tnhh Dịch Vụ Bảo Vệ An Ninh Phía Bắc, Lạc Long Quân, Hùng Vương, Phúc Yên, Vĩnh Phúc nhận hồ sơ xin làm bảo vệ, kcn khai quang tuyển dụng bảo vệ...',
         },
       ],
     }

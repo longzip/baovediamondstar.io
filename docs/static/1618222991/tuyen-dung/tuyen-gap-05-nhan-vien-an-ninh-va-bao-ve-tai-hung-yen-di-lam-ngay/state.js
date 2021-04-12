@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Fbaovediamondstar.ga\u002Fstatic\u002F1618222991",layout:"default",error:null,serverRendered:true,routePath:"\u002Ftuyen-dung\u002Ftuyen-gap-05-nhan-vien-an-ninh-va-bao-ve-tai-hung-yen-di-lam-ngay",config:{_app:{basePath:a,assetsPath:a,cdnURL:"https:\u002F\u002Fbaovediamondstar.ga\u002F"}}}}("\u002F"));

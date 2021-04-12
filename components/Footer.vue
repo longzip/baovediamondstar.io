@@ -202,6 +202,26 @@ export default {
           title:
             'Tuyển gấp 05 Nhân viên an ninh và bảo vệ tại Hưng Yên Đi làm ngay',
         },
+        {
+          _id: '304bbbfc-5e79-4e0a-90a6-a93c4744a3e7',
+          slug: {
+            _type: 'slug',
+            current:
+              'tuyen-gap-01-doi-truong-tim-viec-lam-doi-truong-bao-ve-tai-ha-noi',
+          },
+          title:
+            'Tuyển gấp 01 đội trưởng Tìm việc làm đội trưởng bảo vệ tại Hà Nội',
+        },
+        {
+          _id: '304bbbfc-5e79-4e0a-90a6-a93c4744a3b7',
+          slug: {
+            _type: 'slug',
+            current:
+              'tuyen-03-ca-truong-va-nhan-vien-bao-ve-khu-cong-nghiep-quang-minh',
+          },
+          title:
+            'Tuyển 03 ca trưởng và nhân viên bảo vệ khu công nghiệp quang minh',
+        },
       ],
       tuKhoas: [
         'công ty bảo vệ uy tín',

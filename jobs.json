@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "2f417b62-9601-4b69-b359-69973c4d6653",
+    "slug": {
+      "_type": "slug",
+      "current": "tuyen-gap-01-doi-truong-tim-viec-lam-doi-truong-bao-ve-tai-ha-noi"
+    },
+    "title": "Tuyển gấp 01 đội trưởng Tìm việc làm đội trưởng bảo vệ tại Hà Nội"
+  },
+  {
+    "_id": "add6df6f-908d-4aa5-8ac3-08445c4fc1c7",
+    "slug": {
+      "_type": "slug",
+      "current": "tuyen-03-ca-truong-va-nhan-vien-bao-ve-khu-cong-nghiep-quang-minh"
+    },
+    "title": "Tuyển 03 ca trưởng và nhân viên bảo vệ khu công nghiệp quang minh"
+  },
+  {
+    "_id": "b6087a23-9cd3-4a9b-ab35-7f319373c6dc",
+    "slug": {
+      "_type": "slug",
+      "current": "tuyen-gap-05-nhan-vien-an-ninh-va-bao-ve-tai-hung-yen-di-lam-ngay"
+    },
+    "title": "Tuyển gấp 05 Nhân viên an ninh và bảo vệ tại Hưng Yên Đi làm ngay"
+  }
+]

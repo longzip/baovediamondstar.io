@@ -1,3 +1,6 @@
+import jobs from './jobs.json'
+const publicPath = 'https://baovediamondstar.ga'
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -153,23 +156,45 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     // '@nuxtjs/eslint-module',
-<<<<<<< HEAD
-=======
-    '@nuxtjs/sanity',
->>>>>>> 60a1f7fd681a33f5eedd6d42f1b95c1f0d536e30
+	'@nuxtjs/sanity',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/buefy
     // 'nuxt-buefy',
+    '@nuxtjs/sitemap'
   ],
+
+   sitemap: {
+    defaults: {
+      changefreq: 'daily',
+      priority: 0.8,
+      lastmod: new Date(),
+    },
+    hostname: publicPath,
+    gzip: true,
+    routes: [
+      {
+        url: '/',
+        priority: 1.0,
+      },
+      ...jobs.map((job) => {
+        return {
+          url: `/tuyen-dung/${job.slug.current}/`,
+        }
+      }),
+    ],
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    publicPath: 'https://baovediamondstar.ga',
+    publicPath,
   },
   generate: {
     dir: 'docs',
+  },
+    server: {
+    host: '0', // default: localhost
   },
 }
